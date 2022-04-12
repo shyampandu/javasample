@@ -10,6 +10,7 @@ pipeline {
 	  stage('git repostitory') {
          steps {
             git "https://github.com/shyampandu/javasample.git"
+	    sh "java -version"
          }
       }
 	  stage('clean') {
