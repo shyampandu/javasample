@@ -9,7 +9,7 @@ pipeline {
       }
 	  stage('git repostitory') {
          steps {
-            git "https://github.com/shyampandu/JAVAPROJECT.git"
+            git "https://github.com/shyampandu/javasample.git"
          }
       }
 	  stage('clean') {
