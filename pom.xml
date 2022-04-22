@@ -205,7 +205,7 @@
       <name>Snapshot</name>
       <url>http://13.250.112.36:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
-</distributionManagement>      
+  </distributionManagement>      
 
   <scm>
     <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
