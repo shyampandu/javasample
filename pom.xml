@@ -203,7 +203,7 @@
     <snapshotRepository>
       <id>deployment</id>
       <name>Snapshot</name>
-      <url>http://13.250.112.36:8081/nexus/content/repositories/snapshots/</url>
+      <url>http://13.215.179.130:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>      
 
